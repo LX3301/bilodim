@@ -1,0 +1,139 @@
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+     
+    
+  }
+  
+  label, input, button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  .logo{
+    width: 85px;
+    height: 60px;
+    margin-right: 35px;
+  }
+  
+  .home_buttons{
+    margin-top: 25px;
+    
+    margin: 0 auto;
+    
+     
+  }
+.home_buttons a{
+  text-decoration: none;
+  display: flex;
+  margin: 0 auto;
+  color: #212121;
+  font-size: 24px;
+   
+  padding: 15px;
+  border: #212121 2px solid;
+  margin: 10px;
+  border-radius: 15px;
+  background-color: aliceblue;
+   
+}
+.hm_btn a{
+  
+   max-width: 600px;
+   max-height: 80px;
+   margin: 15px auto;
+   justify-content: center;
+    
+}
+
+  #worksList {
+    margin-top: 10px;
+  }
+  
+  #totalCost {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  .calculator{
+    margin: 0 auto;
+    max-width: 800px;
+    align-items: center;
+
+  }
+  h1{
+    padding: 25px;
+    margin: 0 auto;
+  } 
+
+  h2{
+     
+    width:fit-content;
+    height: fit-content;
+    margin: 0 auto;
+    padding-top: 50px;
+  }
+  .container {
+    padding-top: 10px;
+    max-width: 1400px;
+    background-color:#e5e5e5;
+    margin: 0 auto;
+    height: 100vh;
+  }
+  .navbar {
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .home_logo{
+    max-width: 400px;
+    max-height: 200px;
+    margin: 0 auto;
+     
+  }
+  .home_logo img{
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 50px;
+     
+  }
+  .elevator{
+    width: 20px;
+    height: 20px;
+    margin: 20px 20px 20px 0px;
+    display: inline;
+  }
+  .elevator-lbl{
+    max-width: 300px;
+    height: 20px;
+    margin: 20px 20px 20px 0px;
+    display: inline;
+  }
+  .form-group{
+    font-size: larger;
+  }
+ 
+ 
+ 
+  .footer {
+    /* position:fixed; */
+    
+    bottom: 0;
+    max-width:1320px;
+    height: 60px;
+    background-color: #f5f5f5;
+    text-align: center;
+    line-height: 60px;   
+    margin: 0 auto;
+    margin-top: -60px;
+  }
+ 
+ 
+  
+ 
+  
+   
